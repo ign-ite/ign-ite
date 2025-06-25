@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on any Python or ML related projects.<br>🤝 I’m looking for help with OpenCV related projects. <br>🌱 I’m currently learning Web Dev, OpenCV and ML.<br>💬 Ask me about "Anything"!! I'm open to Productive Discussions!!<br>⚡ Fun fact, (Spoiler Alert!!) I love Tech❤️.
+👯 I’m looking to collaborate on any Python or ML related projects.<br>🤝 I’m looking for help with OpenCV/Finance related projects. <br>🌱 I’m currently learning Web Dev, OpenCV, AI, Finance and ML.<br>💬 Ask me about "Anything"!! I'm open to Productive Discussions!!<br>⚡ Fun fact, (Spoiler Alert!!) I love Tech❤️.
 
 
 ## 🌐 Socials:
