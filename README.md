@@ -1,19 +1,22 @@
-# 💫 About Me:
-👯 I’m looking to collaborate on any Python or ML related projects.<br>🤝 I’m looking for help with OpenCV/Finance related projects. <br>🌱 I’m currently learning Web Dev, OpenCV, AI, Finance and ML.<br>💬 Ask me about "Anything"!! I'm open to Productive Discussions!!<br>⚡ Fun fact, (Spoiler Alert!!) I love Tech❤️.
+# Hi, I'm Varunkumar 👋
 
+Final-year B.Tech (AI & Data Science) at IIITDM Kurnool. iOS & AI/ML engineering intern at Eidovis, working on a production iOS app and its FastAPI/PostgreSQL backend.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/varun._kumar._r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varun-kumar-88286a143) 
+## Things I've built
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ign-ite&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ign-ite&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ign-ite&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- **Voice feedback for a fitness coach app** (Eidovis): an in-workout voice feedback system, built end to end. The app was approved by Apple for App Store distribution on Nov 20, 2026.
+- [CommitOS](https://github.com/chknaren6/Novel): agentic ERP built with a team at a hackathon
+- [leakwatch](https://github.com/ign-ite/leakwatch): finds duplicate and overcharged invoices in accounts-payable data
+- [Itinera](https://github.com/ign-ite/Itinera): multi-agent travel planner (CrewAI + Gemini)
+- [DocDroid](https://github.com/ign-ite/DocDroid): Streamlit app that generates READMEs
+- [t20-oracle](https://github.com/ign-ite/t20-oracle): ML models for T20 cricket match winners
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+## Research
 
----
-[![](https://visitcount.itsvg.in/api?id=ign-ite&icon=0&color=6)](https://visitcount.itsvg.in)
+Game theory at the NGCN Lab (paper under review), and reinforcement learning for Spark job scheduling ([spark-rl-scheduler](https://github.com/ign-ite/spark-rl-scheduler)).
+
+## Stack
+
+Swift, Python, FastAPI, PostgreSQL, TypeScript / Next.js.
+
+[LinkedIn](https://www.linkedin.com/in/varunkumar-r-88286a143/)
